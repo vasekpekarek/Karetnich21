@@ -1,0 +1,12 @@
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\bin\Debug\Karetnich21.exe.config
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\bin\Debug\Karetnich21.exe
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\bin\Debug\Karetnich21.pdb
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\obj\Debug\Karetnich21.csprojAssemblyReference.cache
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\obj\Debug\Karetnich21.exe
+C:\Users\Peki\Documents\Programing\VisualStudio\Karetnich21\Karetnich21\obj\Debug\Karetnich21.pdb
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\bin\Debug\Karetnich21.exe.config
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\bin\Debug\Karetnich21.exe
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\bin\Debug\Karetnich21.pdb
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\obj\Debug\Karetnich21.csprojAssemblyReference.cache
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\obj\Debug\Karetnich21.exe
+C:\Users\Peki\Documents\Programing\Hotové programy\Karetnich21\Karetnich21\obj\Debug\Karetnich21.pdb
